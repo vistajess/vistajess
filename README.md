@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vistajess)](https://github.com/vistajess/github-readme-stats)
+<img alt="my stats" width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=vistajess&show_icons=true" />
+
+<img alt="my stats" width="49%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vistajess&layout=compact" />
+
 
 <!--
 **vistajess/vistajess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
