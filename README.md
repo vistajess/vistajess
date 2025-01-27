@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<img alt="my stats" width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=vistajess&show_icons=true" />
+<img alt="my stats" width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=vistajess&show_icons=true" />
 
-<img alt="my stats" width="49%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vistajess&layout=compact" />
+<img alt="my stats" width="46%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vistajess&layout=compact" />
 
 
 <!--
