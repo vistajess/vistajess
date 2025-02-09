@@ -1,8 +1,17 @@
 ## Hi there 👋
 
-<img alt="my stats" width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=vistajess&show_icons=true" />
+<p align="center">
+  <img alt="my stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=vistajess&show_icons=true" />
+  <img alt="my stats" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vistajess&layout=compact" />
+</p>
 
-<img alt="my stats" width="46%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vistajess&layout=compact" />
+## 🚀 &nbsp;Some Tools I Have Used and Learned
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,docker,jenkins,jquery,npm,nodejs,nextjs,redux,ts,tailwind,bootstrap,materialui,express,mongodb,mysql,dotnet,github" />
+  </a>
+</p>
 
 
 <!--
