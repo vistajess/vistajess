@@ -1,80 +1,117 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hi there! 👋
 
 ## 🚀 About Me
-I'm a passionate Full Stack Developer who loves building web applications and exploring new technologies. I specialize in modern JavaScript frameworks and have experience with both frontend and backend development.
+
+Hi! I'm a Full Stack Developer with extensive experience in modern web technologies. I specialize in building scalable, enterprise-level applications using JavaScript/TypeScript ecosystems.
+
+### 💡 My Expertise
+
+- Frontend development with modern frameworks and state management solutions
+- Backend development using Node.js, Express
+- Database design and optimization (SQL and NoSQL)
+- Familiarity and practices with Docker, Firebase, AWS,  Jenkins
+- UI/UX collaboration and responsive design implementation
+- Cross-browser compatibility and WCAG compliance
+
+### 🎯 Current Focus
+
+- Exploring micro-frontend architectures
+- Implementing advanced state management patterns
+- Optimizing application performance and user experience
+- Staying current with modern web development practices
+
+### 🌟 Fun Facts
+
+- 💪 I'm passionate about clean code and maintainable architecture
+- 📚 Continuous learner and technology enthusiast
+- 🤝 Strong believer in collaborative development and knowledge sharing
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=vistajess&show_icons=true&theme=radical&count_private=true" />
-  <img alt="Top Languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vistajess&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vistajess&show_icons=true&theme=radical&count_private=true&hide_border=true" width="495" alt="Je Vi's GitHub Stats" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vistajess&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vistajess&layout=compact&theme=radical&hide_border=true" width="495" alt="Most Used Languages" />
+</div>
 
-## 💻 Tech Stack
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vistajess&theme=radical&hide_border=true" width="495" alt="GitHub Streak" />
+</div>
 
-<details>
-<summary>Frontend</summary>
+## 💻 Technical Skills
 
-- **Frameworks:** React.js, Angular, Next.js
-- **State Management:** Redux, NGXS
-- **UI Libraries:** Material UI, Tailwind CSS, Bootstrap
-- **Core:** HTML5, CSS3, TypeScript, JavaScript
-- **Design:** Figma
-
-</details>
-
-<details>
-<summary>Backend</summary>
-
-- **Runtime:** Node.js
-- **Frameworks:** Express.js, .NET
-- **Databases:** MongoDB, MySQL
-- **Cloud Services:** Firebase
-
-</details>
-
-<details>
-<summary>DevOps & Tools</summary>
-
-- **Containerization:** Docker
-- **CI/CD:** Jenkins
-- **Version Control:** Git, GitHub
-- **Package Managers:** npm
-- **AI Integration:** OpenAI
-
-</details>
-
-## 🛠️ Technologies & Tools
-
-<p align="center">
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,docker,jenkins,jquery,npm,nodejs,nextjs,redux,ts,tailwind,bootstrap,figma,materialui,express,mongodb,mysql,dotnet,github,firebase,ngxs,openai" />
+    <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,sass,bootstrap,tailwind,materialui,jquery" />
   </a>
 </p>
 
-## 🤝 Let's Connect!
+- **Frameworks & Libraries:** Nextjs, React, React Hooks, Angular 15+, Angularjs
+- **State Management:** Context API, Redux, NgRx, Ngxs, Tanstack Query
+- **Styling:** CSS3, Sass, Flexbox/Grid CSS, Bootstrap, TailwindCSS, Material UI
+- **Architecture:** SPA, Mono-repo Architecture, Micro-Frontend Module Federation
+</details>
 
-<p align="center">
-  <a href="https://linkedin.com/in/jesusvista" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/jevi31" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:vistajesus8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mysql,mongodb,redis,tanstack" />
   </a>
 </p>
 
-## 📈 GitHub Activity Graph
-[![Vistajess's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vistajess&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- **Core:** RESTful API Development, Node.js, Express.js, .NET
+- **Databases:** MySQL, MongoDB, Redis
+- **Testing & Documentation:** Postman
+</details>
 
----
+<details open>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,firebase,aws,redis,jenkins,git,bitbucket,webpack,netlify,vite,vercel,vscode,jira" />
+  </a>
+</p>
 
-<p align="center">
+- **DevOps:** Docker, Jenkins, Git
+- **Development Tools:** Angular CLI, NX, Vite, Webpack / builder
+- **Project Management:** JIRA, Agile
+- **Deployment:** Netlify, Firebase, AWS, Vercel
+</details>
+
+<details open>
+<summary><b>🧪 Testing</b></summary>
+<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,karma,selenium" />
+  </a>
+</p>
+
+- **Testing Frameworks:** Unit & E2E Testing (Protractor, Jasmine, Karma, Mocha / Chai)
+- **Standards:** Accessibility (508 WCAG Compliance), Cross-browser compatibility
+</details>
+
+<details open>
+<summary><b>🔧 Other Skills</b></summary>
+<br>
+
+- **Real-time:** Web sockets (PubSub)
+- **Design:** Responsive Design, UI/UX Collaboration
+- **Integration:** API Integration, OOP Concept
+- **Visualization:** Google Map, Leaflet Map API, Chart.js, D3.js
+</details>
+
+## 📈 Contribution Graph
+[![Vistajess's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vistajess&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=vistajess&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</p>
+</div>
