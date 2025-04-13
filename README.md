@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Hi! I'm a Full Stack Developer with extensive experience in modern web technologies. I specialize in building scalable, enterprise-level applications using JavaScript/TypeScript ecosystems.
+Hi! I'm a Frontend Developer with extensive experience in modern web technologies. I specialize in building scalable, enterprise-level applications using JavaScript/TypeScript ecosystems.
 
 ### 💡 My Expertise
 
@@ -47,7 +47,7 @@ Hi! I'm a Full Stack Developer with extensive experience in modern web technolog
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,sass,bootstrap,tailwind,materialui,jquery" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,html,css,sass,bootstrap,tailwind,materialui,jquery" />
   </a>
 </p>
 
