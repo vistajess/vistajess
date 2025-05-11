@@ -47,7 +47,7 @@ Hi! I'm a Frontend Developer with extensive experience in modern web technologie
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,html,css,sass,bootstrap,tailwind,materialui,jquery" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,angular,ts,js,html,css,sass,bootstrap,tailwind,materialui,jquery,figma" />
   </a>
 </p>
 
