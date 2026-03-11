@@ -109,9 +109,13 @@ Hi! I'm a Frontend Developer with extensive experience in modern web technologie
 - **Visualization:** Google Map, Leaflet Map API, Chart.js, D3.js
 </details>
 
+<--
+Comment out temporarily
 ## 📈 Contribution Graph
 [![Vistajess's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vistajess&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vistajess&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
+
+-->
